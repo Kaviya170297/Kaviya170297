@@ -4,7 +4,11 @@
 
 📍 Coimbatore, Tamil Nadu, India  
 💼 8+ Years in Software Quality Assurance  
-🎯 Functional Testing | Automation | API | Database | BFS / Capital Markets
+🎯 Functional Testing | Automation Testing | API | Database | BFS / Capital Markets
+
+### 📄 My Professional Portfolio
+
+👉 **[View My Complete QA Portfolio](./Kaviya_Subramani_QA_Automation_Portfolio_Updated.pdf)**
 
 ---
 
