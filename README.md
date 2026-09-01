@@ -6,10 +6,6 @@
 💼 8+ Years in Software Quality Assurance  
 🎯 Functional Testing | Automation Testing | API | Database | BFS / Capital Markets
 
-### 📄 My Professional Portfolio
-
-👉 **[View My Complete QA Portfolio](./Kaviya_Subramani_QA_Automation_Portfolio_Updated.pdf)**
-
 ---
 
 ## 👩‍💻 About Me
@@ -36,48 +32,20 @@ workflows for test-case generation and productivity improvement.
 
 ---
 
-# 🧰 Technical Expertise
+## 🧰 Technical Expertise
 
-### 🧪 Testing
-
-`Functional Testing` `Regression Testing` `Integration Testing`  
-`System Testing` `End-to-End Testing` `API Testing` `Database Testing`
-
-### 🤖 Automation
-
-`Python` `Selenium WebDriver` `Playwright` `Robot Framework` `Pytest`
-
-`Page Object Model` `Data-Driven Testing` `Keyword-Driven Testing`
-
-`Pytest Parametrization` `OpenPyXL` `Explicit Waits` `Cross-Browser Testing`
-
-### 🔌 API Testing
-
-`Postman`
-
-### 🗄️ Database
-
-`MySQL` `Microsoft SQL Server` `MongoDB`
-
-### 🛠️ Test Management & Defect Tracking
-
-`qTest` `ALM` `Jira`
-
-### 📊 Reporting
-
-`Allure Reports` `Pytest HTML` `Logging` `Failure Screenshots`
-
-### 🔄 Version Control & CI/CD
-
-`Git` `GitHub` `GitHub Actions` `CI/CD` `Headless Test Execution`
-
-### 🧠 AI-Assisted Testing
-
-`Helios` `Aiden` `Koala-T` `GitHub Copilot`
-
-Used AI-assisted tools in working projects to support **testing activities, 
-test-case generation and QA productivity**.
-
+| Area | Skills & Tools |
+|---|---|
+| **Functional Testing** | Functional, Regression, Integration, System, End-to-End Testing |
+| **Automation** | Selenium WebDriver, Playwright, Robot Framework, Python, Pytest |
+| **Framework Design** | Page Object Model (POM), Data-Driven Testing, Keyword-Driven Testing, Pytest Parametrization |
+| **API Testing** | Postman |
+| **Database Testing** | MySQL, Microsoft SQL Server, MongoDB |
+| **Test Management** | qTest, ALM, Jira |
+| **Reporting** | Allure, Pytest HTML, Logging, Failure Screenshots |
+| **CI/CD & Version Control** | Git, GitHub, GitHub Actions, CI/CD |
+| **AI-Assisted Testing** | Helios, Aiden, Koala-T, GitHub Copilot |
+| **Domain** | BFS / Capital Markets |
 ---
 
 # 💼 Professional Domain Expertise
