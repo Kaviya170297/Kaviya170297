@@ -101,28 +101,31 @@ in working projects.
 
 ## 1. GUVI EdTech Platform Automation
 
-Automated key functionalities of the GUVI EdTech web application using 
-**Python, Selenium, Pytest and Page Object Model**.
+🔗 [View Project on GitHub](https://github.com/Kaviya170297/EdTech-Platform-Web-Application_Project1)
 
-### Highlights
+Automated key functionalities of the GUVI EdTech web application using
+**Python, Selenium, Pytest and Page Object Model (POM)**.
 
+### Key Highlights
 - Positive and negative login validation
 - Excel-based test data
 - Menu and UI validation
 - Logout validation
 - Dobby Assistant validation
-- Logging
-- HTML / Allure reporting
 - Page Object Model
+- Logging
+- Test reporting
 
 ---
 
 ## 2. OrangeHRM Automation
 
-Developed a Selenium-Pytest automation framework for the OrangeHRM application.
+🔗 [View Project on GitHub](https://github.com/Kaviya170297/Project2_ORANGEHRM)
 
-### Highlights
+Developed a Selenium-Pytest automation framework for the OrangeHRM
+HR management application.
 
+### Key Highlights
 - Data-Driven login testing
 - Admin user creation
 - User search validation
@@ -130,7 +133,7 @@ Developed a Selenium-Pytest automation framework for the OrangeHRM application.
 - My Info validation
 - Menu validation
 - Page Object Model
-- BasePage implementation
+- Reusable BasePage
 - Explicit waits
 - Logging and reporting
 
@@ -138,11 +141,12 @@ Developed a Selenium-Pytest automation framework for the OrangeHRM application.
 
 ## 3. SauceDemo E-Commerce Automation
 
-Developed an end-to-end automation framework for the SauceDemo e-commerce application.
+🔗 [View Project on GitHub](https://github.com/Kaviya170297/Project3_Saucedemo_application)
 
-### Highlights
+Developed an end-to-end automation framework for the SauceDemo
+e-commerce application using **Python, Selenium and Pytest**.
 
-- Python + Selenium + Pytest
+### Key Highlights
 - Page Object Model
 - Data-Driven Testing
 - Excel + OpenPyXL
@@ -150,16 +154,14 @@ Developed an end-to-end automation framework for the SauceDemo e-commerce applic
 - Keyword-Driven Testing
 - Random product selection
 - Cart validation
-- Product sorting validation
+- Product sorting
 - Checkout automation
 - Reset App State validation
-- Cross-browser execution
+- Cross-browser testing
 - Allure reporting
 - Pytest HTML reporting
 - Automatic failure screenshots
-- GitHub Actions CI
-
----
+- GitHub Actions CI/CD
 
 ## 💼 Domain Knowledge
 
