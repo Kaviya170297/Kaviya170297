@@ -1,16 +1,190 @@
-## Hi there 👋
+# Hi, I'm Kaviya Subramani 👋
 
-<!--
-**Kaviya170297/Kaviya170297** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Senior Quality Analyst | QA Automation Engineer
 
-Here are some ideas to get you started:
+I am a Senior Quality Analyst with **8+ years of experience in Software Testing**, 
+with strong expertise in **Functional Testing** and the **BFS / Capital Markets domain**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have hands-on experience in functional testing, API testing, database validation, 
+test management, and automation testing. I am currently strengthening my automation 
+expertise using Python, Selenium, Pytest, Playwright, Robot Framework, and CI/CD.
+
+---
+
+## 🧪 Testing Expertise
+
+- Functional Testing
+- Regression Testing
+- Integration Testing
+- System Testing
+- End-to-End Testing
+- API Testing
+- Database Testing
+- Test Case Design & Execution
+- Defect Management
+- Automation Testing
+
+---
+
+## 🤖 Automation Skills
+
+- Python
+- Selenium WebDriver
+- Playwright
+- Robot Framework
+- Pytest
+- Page Object Model (POM)
+- Data-Driven Testing (DDT)
+- Keyword-Driven Testing
+- Pytest Parametrization
+- OpenPyXL
+- Explicit Waits
+- Cross-Browser Testing
+
+---
+
+## 🔌 API Testing
+
+- Postman
+
+---
+
+## 🗄️ Database Skills
+
+- MySQL
+- Microsoft SQL Server Management Studio
+- MongoDB
+
+---
+
+## 🛠️ Test Management & Collaboration Tools
+
+- qTest
+- ALM
+- Jira
+- Git
+- GitHub
+
+---
+
+## 🧠 AI-Assisted Testing
+
+I have incorporated AI-assisted tools into testing activities and test-case generation 
+in working projects.
+
+- Helios
+- Aiden
+- Koala-T
+- GitHub Copilot
+
+---
+
+## 📊 Reporting
+
+- Allure Reports
+- Pytest HTML Reports
+- Automation Logs
+- Failure Screenshots
+
+---
+
+## ⚙️ CI/CD
+
+- GitHub Actions
+- GitHub Integration
+- CI/CD Test Execution
+- Headless Browser Execution
+
+---
+
+# 🚀 Automation Projects
+
+## 1. GUVI EdTech Platform Automation
+
+Automated key functionalities of the GUVI EdTech web application using 
+**Python, Selenium, Pytest and Page Object Model**.
+
+### Highlights
+
+- Positive and negative login validation
+- Excel-based test data
+- Menu and UI validation
+- Logout validation
+- Dobby Assistant validation
+- Logging
+- HTML / Allure reporting
+- Page Object Model
+
+---
+
+## 2. OrangeHRM Automation
+
+Developed a Selenium-Pytest automation framework for the OrangeHRM application.
+
+### Highlights
+
+- Data-Driven login testing
+- Admin user creation
+- User search validation
+- Forgot Password validation
+- My Info validation
+- Menu validation
+- Page Object Model
+- BasePage implementation
+- Explicit waits
+- Logging and reporting
+
+---
+
+## 3. SauceDemo E-Commerce Automation
+
+Developed an end-to-end automation framework for the SauceDemo e-commerce application.
+
+### Highlights
+
+- Python + Selenium + Pytest
+- Page Object Model
+- Data-Driven Testing
+- Excel + OpenPyXL
+- Pytest Parametrization
+- Keyword-Driven Testing
+- Random product selection
+- Cart validation
+- Product sorting validation
+- Checkout automation
+- Reset App State validation
+- Cross-browser execution
+- Allure reporting
+- Pytest HTML reporting
+- Automatic failure screenshots
+- GitHub Actions CI
+
+---
+
+## 💼 Domain Knowledge
+
+### BFS / Capital Markets
+
+I have professional experience working with applications in the 
+**Banking and Financial Services (BFS) domain**, with business knowledge 
+related to **Capital Markets**.
+
+---
+
+## 🎯 Career Focus
+
+I am looking for opportunities as a **QA Automation Engineer**, where I can combine 
+my **8+ years of functional testing experience**, BFS/Capital Markets domain knowledge, 
+API and database testing experience, and growing automation engineering expertise.
+
+---
+
+## 📫 Connect With Me
+
+**Email:** kaviyasubramani8181@gmail.com
+
+**LinkedIn:**  
+https://www.linkedin.com/in/kaviya-subramani-2aa345178/
+
+**GitHub:**  
+https://github.com/Kaviya170297
