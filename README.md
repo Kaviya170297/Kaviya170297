@@ -194,29 +194,22 @@ This enables automated test execution outside the local development environment.
 
 ---
 
-# 🎯 Career Focus
+## 🎯 Career Focus
 
-I am seeking opportunities as a **QA Automation Engineer**, where I can combine:
+I am seeking opportunities as a **QA Automation Engineer**, where I can leverage my **8+ years of Software Quality Assurance experience** together with my growing automation expertise.
 
-**8+ years of QA experience**
+My key strengths include:
 
-+
+- **Functional, Regression, Integration & End-to-End Testing**
+- **BFS / Capital Markets Domain Knowledge**
+- **API Testing using Postman**
+- **Database Validation using MySQL, SQL Server & MongoDB**
+- **Automation using Selenium, Playwright & Robot Framework**
+- **Python, Pytest, POM, Data-Driven & Keyword-Driven Testing**
+- **Git, GitHub, CI/CD & GitHub Actions**
+- **AI-Assisted Testing & Test Case Generation**
 
-**BFS / Capital Markets domain expertise**
-
-+
-
-**Functional + API + Database Testing**
-
-+
-
-**Python / Selenium / Playwright / Robot Framework Automation**
-
-+
-
-**CI/CD & AI-Assisted Testing**
-
-to contribute to scalable and high-quality software delivery.
+My goal is to combine strong **functional and domain expertise** with modern **test automation and quality engineering practices** to deliver reliable and scalable software solutions.
 
 ---
 
